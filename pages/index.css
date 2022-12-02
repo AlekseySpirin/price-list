@@ -1,0 +1,66 @@
+/* page */
+
+@import url(../bloks/page/page.css);
+
+/* header */
+
+@import url(../bloks/header/header.css);
+@import url(../bloks/header/__title/header__title.css);
+@import url(../bloks/header/__subtitle/header__subtitle.css);
+
+/* content */
+
+@import url(../bloks/cards/cards.css);
+@import url(../bloks/cards/__item/cards__item.css);
+@import url(../bloks/cards/__item/_theme/cards__item_theme_orange.css);
+@import url(../bloks/cards/__image/cards__image.css);
+@import url(../bloks/cards/__title/cards__title.css);
+@import url(../bloks/cards/__subtitle/cards__subtitle.css);
+@import url(../bloks/cards/__dollar/cards__dollar.css);
+@import url(../bloks/cards/__price/cards__price.css);
+@import url(../bloks/cards/__description/cards__description.css);
+@import url(../bloks/cards/__mark/cards__mark.css);
+@import url(../bloks/cards/__text/cards__text.css);
+@import url(../bloks/__cost/cards__cost.css);
+
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);
+@import url(../);

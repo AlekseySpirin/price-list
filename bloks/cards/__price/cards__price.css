@@ -1,0 +1,13 @@
+.cards__price {
+  margin: 0;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 67px;
+  line-height: 79px;
+  /* identical to box height */
+
+  letter-spacing: -0.1px;
+
+  color: #ffffff;
+}

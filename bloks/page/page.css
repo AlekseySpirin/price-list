@@ -1,0 +1,10 @@
+.page {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  display: flex;
+  margin: 0;
+  padding: 0;
+
+  background: #ffffff;
+}

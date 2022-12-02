@@ -1,0 +1,7 @@
+.cards__cost {
+  display: flex;
+
+  flex-direction: row;
+  margin-left: 35px;
+  position: relative;
+}
