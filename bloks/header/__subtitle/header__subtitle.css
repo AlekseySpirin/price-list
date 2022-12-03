@@ -1,0 +1,12 @@
+.header__subtitle {
+  margin: 13px auto 68px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: center;
+  /* identical to box height */
+
+  color: #5d7085;
+}

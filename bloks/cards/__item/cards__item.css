@@ -1,5 +1,7 @@
 .cards__item {
   height: 601px;
   width: 266px;
-  border: 1px solid red;
+
+  list-style: none;
+  position: relative;
 }

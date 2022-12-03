@@ -22,10 +22,10 @@
 @import url(../bloks/cards/__mark/cards__mark.css);
 @import url(../bloks/cards/__text/cards__text.css);
 @import url(../bloks/cards/__cost/cards__cost.css);
+@import url(../bloks/cards/__list/cards__list.css);
+@import url(../bloks/button-wrapper/button-wrapper.css);
+@import url(../bloks/button/button.css);
 
-@import url(../);
-@import url(../);
-@import url(../);
 @import url(../);
 @import url(../);
 @import url(../);

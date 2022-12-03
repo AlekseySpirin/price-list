@@ -1,0 +1,9 @@
+.cards__mark {
+  margin: 0;
+  width: 10px;
+  height: 8px;
+  position: absolute;
+  background-image: url(/images/Done.svg);
+  top: 50%;
+  transform: translateY(-50%);
+}
