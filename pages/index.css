@@ -1,6 +1,6 @@
-/* page */
+/* content */
 
-@import url(../bloks/page/page.css);
+@import url(../bloks/content/content.css);
 
 /* header */
 
@@ -31,4 +31,4 @@
 @import url(../bloks/cards/__item/_theme/cards__item_theme_gray.css);
 @import url(../bloks/popular/popular.css);
 @import url(../bloks/popular/__text/popular__text.css);
-@import url(../);
+@import url(../bloks/cards/__image/_size/cards__image_size_m.css);

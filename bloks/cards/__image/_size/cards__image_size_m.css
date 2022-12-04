@@ -1,0 +1,5 @@
+.cards__image_size_m {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
