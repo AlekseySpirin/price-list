@@ -1,8 +1,8 @@
 .button-wrapper {
-  margin-top: 119px;
-  width: 100%;
+  width: 196px;
   height: 40px;
-  align-items: flex-end;
-  justify-content: center;
-  display: flex;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  transform: translate(-35px, -35px);
 }

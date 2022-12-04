@@ -1,7 +1,11 @@
 .cards__item {
   height: 601px;
   width: 266px;
-
   list-style: none;
   position: relative;
+}
+
+.button:nth-child(3) {
+  background-color: #fff;
+  border: 2 solid red;
 }
